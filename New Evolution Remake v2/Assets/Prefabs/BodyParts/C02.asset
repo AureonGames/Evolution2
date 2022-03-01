@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59707841ac906d1418aa871517fb22a4, type: 3}
+  m_Name: C02
+  m_EditorClassIdentifier: 
+  itemId: C02
+  itemName: Cuerpo2
+  baseDPS: 0
+  baseHP: 0
+  baseMagic: 0
+  manaCost: 0
+  bodyType: Chest
+  artWork: {fileID: 21300000, guid: 5f728f69e13c0d94dacc1fc33d96df24, type: 3}
+  bodyPart: {fileID: 8588745424471325383, guid: bf04e90baa604e94eb8385c9fc3cb5d6,
+    type: 3}

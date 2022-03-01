@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "559394356161",
+    "firebase_url": "https://evolution-27145926.firebaseio.com",
+    "project_id": "evolution-27145926",
+    "storage_bucket": "evolution-27145926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559394356161:android:6c58bc8750b12b2f",
+        "android_client_info": {
+          "package_name": "com.DalasGalaxy.Evolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559394356161-ca2t8429vveeosta347fgm0d704d5bl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DalasGalaxy.Evolution",
+            "certificate_hash": "fb305b5932d867fb964ad97e93dd6eab0e207c1e"
+          }
+        },
+        {
+          "client_id": "559394356161-r6ku2qakpohn289q32d8nuccsor6gmpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DalasGalaxy.Evolution",
+            "certificate_hash": "d56fe46aafa507ab75a3aef5a98f881e877d1c3e"
+          }
+        },
+        {
+          "client_id": "559394356161-hvt29ptro5jpfh9soo2s10s5sb5ra0m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpAbEoh-QhmcI0weI11tIOZ7Kj6TxbUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559394356161-hvt29ptro5jpfh9soo2s10s5sb5ra0m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

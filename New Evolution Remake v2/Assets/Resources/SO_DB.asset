@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96dd4f9c173835e4aa607d0600ff323f, type: 3}
+  m_Name: SO_DB
+  m_EditorClassIdentifier: 
+  playerData:
+    win: 15
+    lose: 0
+    lvl: 1
+    chest: 0
+    crown: 0
+    diamonds: 120
+    money: 150
+    attack: 180
+    hp: 570
+    magic: 180
+    turn: 0
+    items:
+    - id: 00000004
+      rarity: 000000000
+      stars: 1
+      equiped: 1
+      itemID: A00
+      equip: {fileID: 11400000, guid: e2c32645bdece8d49b666a771f66e907, type: 2}
+    - id: 00000005
+      rarity: 000000000
+      stars: 1
+      equiped: 0
+      itemID: C00
+      equip: {fileID: 11400000, guid: a177c60205d32a64a9544cf20fdfb644, type: 2}
+    - id: 00000006
+      rarity: 000000000
+      stars: 1
+      equiped: 1
+      itemID: L00
+      equip: {fileID: 11400000, guid: dba3f386d9b5bc7469e93d1f713230bd, type: 2}
+    - id: 00000007
+      rarity: 000000000
+      stars: 1
+      equiped: 1
+      itemID: H00
+      equip: {fileID: 11400000, guid: 4136102a2db44934f83b629ba75a26a6, type: 2}
+    - id: 00000008
+      rarity: 
+      stars: 2
+      equiped: 0
+      itemID: H01
+      equip: {fileID: 11400000, guid: 0a2e4a5c9c4aa2f418b70bfbc0224ad5, type: 2}
+    - id: 00000009
+      rarity: 000000000
+      stars: 1
+      equiped: 1
+      itemID: C01
+      equip: {fileID: 11400000, guid: 05a379c9da6367c409fecf08413358ec, type: 2}
+    skills:
+    - {fileID: 11400000, guid: a3b03d82003789d42892c21d039899e5, type: 2}
+  userData:
+    userName: robito
+    password: 

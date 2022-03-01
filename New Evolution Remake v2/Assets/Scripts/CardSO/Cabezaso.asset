@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcd4b6c2c42704092c71094ed49571, type: 3}
+  m_Name: Cabezaso
+  m_EditorClassIdentifier: 
+  skillID: 0
+  SkillName: Cabezaso
+  artImage: {fileID: 21300000, guid: 58814347a3757d14fb2c4b85772d5672, type: 3}
+  desc: Realiza un ataque con la cabeza.
+  skillType: 
+  skillTypeIcon: {fileID: 0}
+  animationType:
+  - attackMain
+  - attackMain
+  - attackSupport
+  - attackSupport
+  effects:
+  - {fileID: 11400000, guid: 6f104a962527f874e9d9281992437b41, type: 2}

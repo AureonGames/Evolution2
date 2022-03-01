@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59707841ac906d1418aa871517fb22a4, type: 3}
+  m_Name: C00
+  m_EditorClassIdentifier: 
+  itemId: C00
+  itemName: Lizzard
+  baseDPS: 10
+  baseHP: 50
+  baseMagic: 0
+  manaCost: 60
+  bodyType: Chest
+  artWork: {fileID: 21300000, guid: c44bf510a00285b44b02a596ae68f78a, type: 3}
+  bodyPart: {fileID: 8316652590760751930, guid: 61f2090af673e634fa67c30b8cb65590,
+    type: 3}
+  skills:
+  - {fileID: 11400000, guid: 3d14ac6c1ebcbac47b011c04dfcc5466, type: 2}
